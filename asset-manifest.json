@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/huusang2096/sang-dev/static/css/main.d1d1cfa5.css",
-    "main.js": "/huusang2096/sang-dev/static/js/main.db645613.js",
-    "static/js/787.6508a1f7.chunk.js": "/huusang2096/sang-dev/static/js/787.6508a1f7.chunk.js",
-    "static/media/sticker_mlem.webp": "/huusang2096/sang-dev/static/media/sticker_mlem.c4931590c907ee38976f.webp",
-    "index.html": "/huusang2096/sang-dev/index.html",
-    "main.d1d1cfa5.css.map": "/huusang2096/sang-dev/static/css/main.d1d1cfa5.css.map",
-    "main.db645613.js.map": "/huusang2096/sang-dev/static/js/main.db645613.js.map",
-    "787.6508a1f7.chunk.js.map": "/huusang2096/sang-dev/static/js/787.6508a1f7.chunk.js.map"
+    "main.css": "/sang-dev/static/css/main.d1d1cfa5.css",
+    "main.js": "/sang-dev/static/js/main.3fd144a3.js",
+    "static/js/787.6508a1f7.chunk.js": "/sang-dev/static/js/787.6508a1f7.chunk.js",
+    "static/media/sticker_mlem.webp": "/sang-dev/static/media/sticker_mlem.c4931590c907ee38976f.webp",
+    "index.html": "/sang-dev/index.html",
+    "main.d1d1cfa5.css.map": "/sang-dev/static/css/main.d1d1cfa5.css.map",
+    "main.3fd144a3.js.map": "/sang-dev/static/js/main.3fd144a3.js.map",
+    "787.6508a1f7.chunk.js.map": "/sang-dev/static/js/787.6508a1f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d1cfa5.css",
-    "static/js/main.db645613.js"
+    "static/js/main.3fd144a3.js"
   ]
 }
