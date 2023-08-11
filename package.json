@@ -2,7 +2,7 @@
   "name": "sang-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://huusang2096.github.io/sang-dev",
+  "homepage": "https://huusang2096.github.io/sang-dev/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
