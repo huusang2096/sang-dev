@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.d1d1cfa5.css",
-    "main.js": "/static/js/main.e1d7f384.js",
+    "main.js": "/static/js/main.187d75b3.js",
     "static/js/787.6508a1f7.chunk.js": "/static/js/787.6508a1f7.chunk.js",
     "static/media/sticker_mlem.webp": "/static/media/sticker_mlem.c4931590c907ee38976f.webp",
     "index.html": "/index.html",
     "main.d1d1cfa5.css.map": "/static/css/main.d1d1cfa5.css.map",
-    "main.e1d7f384.js.map": "/static/js/main.e1d7f384.js.map",
+    "main.187d75b3.js.map": "/static/js/main.187d75b3.js.map",
     "787.6508a1f7.chunk.js.map": "/static/js/787.6508a1f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d1cfa5.css",
-    "static/js/main.e1d7f384.js"
+    "static/js/main.187d75b3.js"
   ]
 }
